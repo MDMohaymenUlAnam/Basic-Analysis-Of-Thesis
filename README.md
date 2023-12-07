@@ -1,6 +1,4 @@
-Certainly! Below is the complete README file incorporating all the information:
 
-```markdown
 # Basic Analysis Of Thesis
 
 ## Overview
